@@ -1,0 +1,178 @@
+.navbar-expand-md{
+    height: 60px;
+}
+.logo{
+    height: 59px;
+    padding-left: 98px;
+}
+.bar{
+    background-color: rgb(100, 81, 81);
+}
+.tools{
+    padding: 5px;
+
+}
+.container-img{
+    display: grid;
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 26%;
+    height: 78px;
+}
+.text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding-top: 51px;
+    padding-right: 40px;
+}
+.content.content-games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 60px auto;
+    padding-left: 500px;
+}
+.firstimage {
+    padding: 11px;
+    width: 91%;
+}
+.secondimage{
+    padding: 11px;
+    width: 91%;
+}
+
+
+.run{
+    color: #606060;
+    text-align: center;
+    margin-top: 20px;
+
+}
+h4{
+    text-align: center;
+    font-size: 4.9rem;
+    line-height: 50px
+}
+.puzzle{
+    width: 91%;
+    padding: 13px;
+    margin-top: 33px;
+}
+.soon{
+    width: 91%;
+    padding: 13px;
+    margin-top: 33px;
+}
+.container-2{
+    margin: 86px;
+    display: grid;
+}
+
+.textt{
+    font-weight: bold;
+}
+.begin{
+    margin-top: 43px;
+}
+.goldd{
+    padding: 11px;
+    width: 63%;
+}
+.container-3{
+    background-color: black;
+    margin: none;
+    /* position: relative; */
+}
+.demon{
+    position: relative;
+    top: -73px;  
+}
+.cont-text{
+    color:white ;
+    margin-top: 118px;
+    
+}
+.career{
+    font-weight: bold;
+}
+.btn{
+    background-color: white;
+    margin: 30px 0;
+}
+.head-fix{
+    display: flex;
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: black;
+    
+}
+.n{
+    margin-top: 67px;
+}
+.site-footer{
+    display: flex;
+    height: 125px;
+    background-color: black;
+
+}
+.FOLLOW{
+    color: white;
+    font-weight: 400;
+    padding-left: 148px;
+}
+.info{
+    height: 67px;
+    background-color:black;
+}
+.social{
+    list-style: none;
+    /* width: 20px; */
+
+}
+.social-a{
+    color:white;
+    padding-left: 11px;
+    
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+    padding-left: 135px;
+}
+.content-copyright{
+    background-color:black;
+    text-align: center;
+    height: 47px;
+
+}
+.footer-text{
+    color: white;
+}
+.policy{
+    color: white;
+}
+.apple{
+    width: 183px;
+    margin: 17px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.play{
+    width: 163px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+
+
+
+
